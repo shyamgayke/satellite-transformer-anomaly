@@ -37,8 +37,13 @@ Power contribution: 0.0000
 
 **Generated visualizations**:
 1. Telemetry signals with injected anomalies
+   <img width="748" height="648" alt="image" src="https://github.com/user-attachments/assets/02cd3017-e2ff-433f-819a-aafef6912380" />
 2. Anomaly detection scores vs. dynamic threshold
+   <img width="975" height="690" alt="image" src="https://github.com/user-attachments/assets/a46c2dda-74be-440e-92b0-000368a60a19" />
+
 3. Attention heatmap for primary anomaly
+<img width="715" height="563" alt="image" src="https://github.com/user-attachments/assets/7dfdc734-5427-4a81-bc77-6bf48cddc787" />
+
 
 ## Paper Integration
 
